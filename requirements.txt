@@ -4,7 +4,6 @@ colorama==0.4.5
 Flask==2.2.2
 Flask-Cors==3.0.10
 Flask-SQLAlchemy==3.0.0
-greenlet==1.1.3
 gunicorn==20.1.0
 importlib-metadata==5.0.0
 itsdangerous==2.1.2
